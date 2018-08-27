@@ -1,0 +1,7 @@
+{
+  "name": "bdxio-next-talks",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
